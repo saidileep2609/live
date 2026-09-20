@@ -1,0 +1,7 @@
+{
+  "name": "Time - Precision World Clock & Timers",
+  "description": "A high-precision time platform featuring real-time digital and analog clocks, world time zone comparisons, meeting scheduler, solar ephemeris, stopwatch with laps, and customizable timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
